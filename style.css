@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    justify-content: flex-start;
+    padding-top: 40px;
+    text-align: center;
+    gap: 35px;
+}
